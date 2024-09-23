@@ -1,0 +1,13 @@
+a resposta de 1 e 2  estão nos códigos.
+
+resposta 3) No final do processamento, o valor de SOMA será 77.
+
+Resposta 4)
+a) estão somando 2 ao anterior, logo, o próximo número é 9
+b) multiplica por 2 o número anterior, logo, o próximo número é 128
+c) cada número é um quadrado perfeito, ou seja, o próximo número deveria ser 7 elevado a 2, logo 49
+d) cada número é o quadrado dos números pares, então 8² = 64, logo o próximo é 10² = 100
+e) é a sequência de Fibonacci, o número atual mais o anterior, logo, o próximo número é 13
+f) a sequência é feita com todos os números que começam com a letra "D", sendo assim o próximo número é 200
+
+Resposta 5) Digamos que temos os interruptores 1, 2 e 3. Se acendermos o 1 por um tempo e depois desligarmos, a lâmpada ficará quente. Assim bastava ligar o interruptor 2 e ir à duas salas. Se a lâmpada estivesse apagada, mas quente, seria a sala do interruptor 1, se estivesse com a luz acesa, seria a sala do interruptor 2 e se estivesse apaga e fria, seria a sala do interruptor 3
